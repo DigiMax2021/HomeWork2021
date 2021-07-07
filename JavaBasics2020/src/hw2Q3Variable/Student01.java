@@ -1,8 +1,9 @@
 package hw2Q3Variable;
 
 public class Student01 { //class initialized
-	public String Id = "Maga2020";
+	public String Id = "maga2020";
 	public boolean isGood = true;
+	public int My_Age=2;
 
 	//public static void main(String[] args) {You cannot print non-static variable in Static Main Method without creating an object to instantiate a new class by calling a separate non static method with sys out print command to print the non-static variables.
 	
@@ -15,6 +16,7 @@ public class Student01 { //class initialized
 	
 			System.out.println("My Student Id: "+ Id);
 			System.out.println("Am I the biggest asshole in class?: "+ isGood);
+			System.out.println("My Age is:"+My_Age);
 	
 	} //completing loop for the constructor
 		

@@ -11,7 +11,8 @@ public class HelloWorld {
 		System.out.println("Trump for 2020"); //print line merged with above
 		System.out.println("\rTrump for Idoits"); //skip to next line
 		System.out.println("M" + "A" + "G" + "A");
-		
+		System.out.println("M" + "A" + "G" + "A");
+	// trying to push the code in github	
 	}
 
 }
